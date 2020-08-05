@@ -195,7 +195,7 @@ services:
         NCCL_VERSION_OVERRIDE: 2.7.8-1+cuda10.1
         MPI_KIND: OpenMPI
         PYTHON_VERSION: 3.6
-        TENSORFLOW_PACKAGE: tensorflow-gpu==1.15.0
+        TENSORFLOW_PACKAGE: tensorflow-gpu==2.2.0
         KERAS_PACKAGE: keras==2.3.1
         PYTORCH_PACKAGE: torch==1.5.0+cu101
         TORCHVISION_PACKAGE: torchvision==0.6.0+cu101
